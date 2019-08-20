@@ -18,7 +18,7 @@ expose:
   - --v
   - 4
   config:
-    domain: ekstest.nymhealth.com
+    domain: 3.227.221.88.nip.io
     exposer: Ingress
     http: "true"
 jenkins:
