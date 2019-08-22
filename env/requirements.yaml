@@ -13,6 +13,9 @@ dependencies:
 - name: jx-test-quickstart-3
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
+- name: jx-test-replica
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: python-flask-docker
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
